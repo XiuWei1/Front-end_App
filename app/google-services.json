@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634886768048",
+    "project_id": "smartminutesdatabase",
+    "storage_bucket": "smartminutesdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634886768048:android:1545a24e32322a27c18275",
+        "android_client_info": {
+          "package_name": "com.example.smartminutes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8d4P7EjdAJZyDgt_pIAdkiP9WkcaSDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

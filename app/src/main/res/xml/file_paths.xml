@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Root of external storage -->
+    <external-path
+        name="external_storage_root"
+        path="." />
+
+    <!-- App-specific external files -->
+    <external-files-path
+        name="external_files"
+        path="." />
+
+    <!-- App-specific cache -->
+    <cache-path
+        name="cache"
+        path="." />
+
+    <!-- App-specific internal storage -->
+    <files-path
+        name="internal_files"
+        path="." />
+
+    <!-- Public Downloads directory -->
+    <external-public-path
+        name="downloads"
+        path="Download/" />
+
+    <!-- Public Music directory -->
+    <external-public-path
+        name="music"
+        path="Music/" />
+
+    <!-- App-specific Music directory -->
+    <external-files-path
+        name="app_music"
+        path="Music/" />
+</paths>
